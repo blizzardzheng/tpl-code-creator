@@ -1,0 +1,304 @@
+{
+  "layoutData": {
+    "componentName": "Block",
+    "id": "b3d48690-b26a-11ec-a258-b5c503ec0fe1",
+    "props": {
+      "style": {
+        "display": "flex",
+        "alignItems": "center",
+        "flexDirection": "column"
+      },
+      "className": "mod"
+    },
+    "taskId": "71A553F0-0F7F-4127-9736-EE8F6C372EE3",
+    "artboardImg": "https://img.alicdn.com/imgextra/i4/O1CN01BqmhxY1ljBFbO21vb_!!6000000004854-2-tps-600-829.png",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 600,
+      "height": 829
+    },
+    "pluginVersion": "4.2.3",
+    "layerProtocols": [
+      "merge",
+      "class",
+      "field"
+    ],
+    "name": "编组 17",
+    "reference": "sketch",
+    "children": [
+      {
+        "componentName": "Div",
+        "id": "3033e0ca-159d-484f-9c47-0d51035a0dda",
+        "props": {
+          "style": {
+            "display": "flex",
+            "position": "relative",
+            "alignItems": "center",
+            "flexDirection": "column",
+            "backgroundSize": "contain",
+            "backgroundImage": "url(https://img.alicdn.com/imgextra/i1/O1CN0152iYnI1qZAfoGvyec_!!6000000005509-2-tps-1200-1418.png)",
+            "width": "600px",
+            "height": "709px",
+            "fontWeight": 600,
+            "whiteSpace": "nowrap"
+          },
+          "className": "main"
+        },
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 600,
+          "height": 709
+        },
+        "children": [
+          {
+            "componentName": "Text",
+            "id": "b3d48693-b26a-11ec-a258-b5c503ec0fe1",
+            "props": {
+              "style": {
+                "position": "relative",
+                "marginTop": "72px",
+                "maxWidth": "588px",
+                "height": "67px",
+                "overflow": "hidden",
+                "textOverflow": "ellipsis",
+                "lineHeight": "67px",
+                "color": "#000000",
+                "fontFamily": "PingFang SC",
+                "fontSize": "48px"
+              },
+              "text": "签到成功!",
+              "lines": 1,
+              "className": "title"
+            },
+            "rect": {
+              "x": 196,
+              "y": 72,
+              "width": 208,
+              "height": 67
+            },
+            "selfId": "D7DFDD3D-075D-46BD-98FF-0E7215C89EB40",
+            "nodeLayerName": "签到成功!"
+          },
+          {
+            "componentName": "Text",
+            "id": "b3d48692-b26a-11ec-a258-b5c503ec0fe1",
+            "props": {
+              "style": {
+                "position": "relative",
+                "marginTop": "8px",
+                "maxWidth": "588px",
+                "height": "45px",
+                "overflow": "hidden",
+                "textOverflow": "ellipsis",
+                "lineHeight": "45px",
+                "color": "#999999",
+                "fontFamily": "PingFang SC",
+                "fontSize": "32px"
+              },
+              "text": "获得神秘礼包",
+              "lines": 1,
+              "className": "caption"
+            },
+            "rect": {
+              "x": 204,
+              "y": 147,
+              "width": 192,
+              "height": 45
+            },
+            "smart": {
+              "layerProtocol": {
+                "field": {
+                  "type": "Ww"
+                }
+              }
+            },
+            "selfId": "9F4852FD-3C52-4B22-B28C-F745ADAB81100",
+            "nodeLayerName": "#field:Ww#merge#获得神秘礼包"
+          },
+          {
+            "componentName": "Image",
+            "id": "b3d4ada3-b26a-11ec-a258-b5c503ec0fe1",
+            "props": {
+              "style": {
+                "position": "relative",
+                "marginTop": "40px",
+                "width": "520px",
+                "height": "230px",
+                "fontWeight": 400,
+                "whiteSpace": "normal"
+              },
+              "src": "https://img.alicdn.com/imgextra/i1/O1CN01I3O6Pg1GEioxNjx8L_!!6000000000591-2-tps-1040-460.png",
+              "className": "banner"
+            },
+            "rect": {
+              "x": 40,
+              "y": 232,
+              "width": 520,
+              "height": 230
+            },
+            "smart": {
+              "layerProtocol": {
+                "merge": {
+                  "type": "merge"
+                }
+              }
+            },
+            "selfId": "8CDC4DD7-2751-46C9-BF58-EE4D8491033C",
+            "nodeLayerName": "#merge#配图"
+          },
+          {
+            "componentName": "Div",
+            "id": "b3d4ada2-b26a-11ec-a258-b5c503ec0fe1",
+            "props": {
+              "style": {
+                "boxSizing": "border-box",
+                "display": "flex",
+                "position": "relative",
+                "alignItems": "center",
+                "flexDirection": "row",
+                "marginTop": "40px",
+                "borderRadius": "55px",
+                "backgroundColor": "#FF4000",
+                "paddingRight": "95px",
+                "paddingLeft": "95px",
+                "height": "110px",
+                "overflow": "hidden",
+                "lineHeight": "40px"
+              },
+              "className": "title-wrapper"
+            },
+            "rect": {
+              "x": 125,
+              "y": 502,
+              "width": 350,
+              "height": 110
+            },
+            "selfId": "6AE06D09-07C8-441B-BD36-498C9723A3E1",
+            "nodeLayerName": "#merge#矩形",
+            "children": [
+              {
+                "componentName": "Text",
+                "id": "b3d4ada1-b26a-11ec-a258-b5c503ec0fe1",
+                "props": {
+                  "style": {
+                    "marginTop": "6px",
+                    "color": "#ffffff",
+                    "fontFamily": "PingFang SC",
+                    "fontSize": "40px"
+                  },
+                  "text": "开心收下",
+                  "lines": 1,
+                  "className": "title-1"
+                },
+                "rect": {
+                  "x": 220,
+                  "y": 532,
+                  "width": 160,
+                  "height": 56
+                },
+                "selfId": "F45DCCE1-9501-41C0-A3AC-6AC4C1F303360",
+                "nodeLayerName": "开心收下"
+              }
+            ]
+          },
+          {
+            "componentName": "Text",
+            "id": "b3d4ada0-b26a-11ec-a258-b5c503ec0fe1",
+            "props": {
+              "style": {
+                "position": "relative",
+                "marginTop": "16px",
+                "maxWidth": "588px",
+                "height": "33px",
+                "overflow": "hidden",
+                "textOverflow": "ellipsis",
+                "lineHeight": "33px",
+                "color": "#838383",
+                "fontFamily": "PingFang SC",
+                "fontSize": "24px",
+                "fontWeight": 400
+              },
+              "text": "可在我的奖品中查看",
+              "lines": 1,
+              "className": "info"
+            },
+            "rect": {
+              "x": 192,
+              "y": 628,
+              "width": 216,
+              "height": 33
+            },
+            "selfId": "F9586060-ADAD-4C30-8DCC-87B1B84730E50",
+            "nodeLayerName": "可在我的奖品中查看"
+          }
+        ]
+      },
+      {
+        "componentName": "Image",
+        "id": "b3d48691-b26a-11ec-a258-b5c503ec0fe1",
+        "props": {
+          "style": {
+            "position": "relative",
+            "marginTop": "60px",
+            "width": "60px",
+            "height": "60px"
+          },
+          "src": "https://img.alicdn.com/imgextra/i2/O1CN01FPTVE31q2eYKPr3Iq_!!6000000005438-2-tps-120-120.png",
+          "className": "large-icon"
+        },
+        "rect": {
+          "x": 270,
+          "y": 769,
+          "width": 60,
+          "height": 60
+        },
+        "selfId": "8801D2A8-9A30-4EE7-AC4F-55D3AE8A619A",
+        "nodeLayerName": "形状结合备份 22",
+        "smart": {
+          "layerProtocol": {
+            "field": {
+              "type": "close"
+            }
+          },
+          "nodeIdentification": {
+            "fieldBind": [
+              "close"
+            ]
+          },
+          "nodeCustom": {
+            "fieldBind": {
+              "confidential": 0.9994713664054871,
+              "isConfident": true,
+              "label": "close",
+              "type": "fieldBind"
+            }
+          }
+        }
+      }
+    ],
+    "__path": ""
+  },
+  "ui": {
+    "currentSelectNode": "",
+    "step": 1,
+    "globalDataForm": {
+      "moduleName": {
+        "content": "将新建 Test0402_2 文件夹到works目录",
+        "type": "info"
+      }
+    }
+  },
+  "globalData": {
+    "moduleName": "Test0402_2",
+    "branch": "iwork_ui_moduleName_iwork_ui_test123",
+    "path": "/works",
+    "title": "11111"
+  },
+  "workInfo": {
+    "type": "ui",
+    "version": 1,
+    "title": "11111"
+  }
+}

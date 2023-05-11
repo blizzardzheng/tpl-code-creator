@@ -1,0 +1,12 @@
+{
+  "extends": "@eggjs/tsconfig",
+  "compilerOptions": {
+    "outDir": "lib",
+    "incremental": true,
+    "esModuleInterop":true,
+    "jsx": "react",
+    "noUnusedParameters": false,
+    "noUnusedLocals": false
+  },
+  "include": ["./src"]
+}
